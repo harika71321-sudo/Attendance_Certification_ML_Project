@@ -46,5 +46,5 @@ A milestone project that builds an attendance tracking and certification system 
 
 ## Author
 
-P.Geetha
+N Harika
 
